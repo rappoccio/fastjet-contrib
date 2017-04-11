@@ -14,6 +14,8 @@
 # and 3rd party plugin jet algorithms. See COPYING file for details.
 #--------------------------------------------------------------------------
 ConstituentSubtractor using [JetMedianBackgroundEstimator, using Longitudinally invariant kt algorithm with R = 0.4 and E scheme recombination with Active area (explicit ghosts) with ghosts of area 0.00997331 (had requested 0.01), placed up to y = 4, scattered wrt to perfect grid by (rel) 1, mean_ghost_pt = 1e-100, rel pt_scatter =  0.1, n repetitions of ghost distributions =  1 and selecting jets with |rap| <= 3] to estimate the background
+perform mass subtraction: 1
+
 # original hard jets
 pt = 144.5, rap = 0.6689, mass = 19.34, width = 0.06909
 pt = 220.1, rap = -1.068, mass = 18.09, width = 0.0337
